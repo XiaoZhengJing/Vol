@@ -1,0 +1,45 @@
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.AssemblyReference.cache
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.AssemblyInfoInputs.cache
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.AssemblyInfo.cs
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.CoreCompileInputs.cache
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.deps.json
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.dll
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.pdb
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Entity.dll
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Entity.pdb
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.CopyComplete
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.dll
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\refint\VOL.Core.dll
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.pdb
+D:\wwwdev\VOL 框架_windoes登录版\Vue.Net\VOL.Core\obj\Debug\net7.0\ref\VOL.Core.dll
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.deps.json
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.dll
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.pdb
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Entity.dll
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Entity.pdb
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.AssemblyReference.cache
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.AssemblyInfoInputs.cache
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.AssemblyInfo.cs
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.CoreCompileInputs.cache
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.CopyComplete
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.dll
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\refint\VOL.Core.dll
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.pdb
+D:\wwwdev\VOL 框架_windoes登录版\LTB\Vue.Net\VOL.Core\obj\Debug\net7.0\ref\VOL.Core.dll
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.deps.json
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.dll
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Core.pdb
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Entity.dll
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\bin\Debug\net7.0\VOL.Entity.pdb
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.AssemblyReference.cache
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.AssemblyInfoInputs.cache
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.AssemblyInfo.cs
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.CoreCompileInputs.cache
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.csproj.CopyComplete
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.dll
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\refint\VOL.Core.dll
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\VOL.Core.pdb
+C:\Users\z004srhp\Desktop\code\Vue.Net\VOL.Core\obj\Debug\net7.0\ref\VOL.Core.dll

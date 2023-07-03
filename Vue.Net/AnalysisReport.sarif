@@ -1,0 +1,259 @@
+﻿{
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Dependency Analysis",
+          "semanticVersion": "0.4.410601",
+          "informationUri": "https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-overview",
+          "rules": [
+            {
+              "id": "UA105",
+              "name": "PackageToBeDeleted",
+              "fullDescription": {
+                "text": "Packages that need to be deleted in order to upgrade the project to chosen TFM"
+              },
+              "helpUri": "https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-overview"
+            },
+            {
+              "id": "UA106",
+              "name": "PackageToBeAdded",
+              "fullDescription": {
+                "text": "Packages that need to be added in order to upgrade the project to chosen TFM"
+              },
+              "helpUri": "https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-overview"
+            }
+          ]
+        }
+      },
+      "results": [
+        {
+          "ruleId": "UA105",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.EntityFrameworkCore needs to be removed as its a transitive dependency that is not required"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.Core/VOL.Core.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA106",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.4.421302 needs to be added."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.Core/VOL.Core.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA105",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.EntityFrameworkCore needs to be removed as its a transitive dependency that is not required"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.Entity/VOL.Entity.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA106",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.4.421302 needs to be added."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.Entity/VOL.Entity.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA105",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.EntityFrameworkCore needs to be removed as its a transitive dependency that is not required"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.Builder/VOL.Builder.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA106",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.4.421302 needs to be added."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.Builder/VOL.Builder.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA105",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.EntityFrameworkCore needs to be removed as its a transitive dependency that is not required"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.System/VOL.System.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA106",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.4.421302 needs to be added."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.System/VOL.System.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA106",
+          "level": "note",
+          "message": {
+            "text": "Package Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.4.421302 needs to be added."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.WebApi/VOL.WebApi.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        }
+      ],
+      "columnKind": "utf16CodeUnits"
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "API Upgradability",
+          "semanticVersion": "0.4.410601",
+          "informationUri": "https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-overview",
+          "rules": [
+            {
+              "id": "UA0001",
+              "name": "ASP.NET Core projects should not reference ASP.NET namespaces",
+              "fullDescription": {
+                "text": "ASP.NET Core projects should not reference ASP.NET namespaces"
+              }
+            }
+          ]
+        }
+      },
+      "results": [
+        {
+          "ruleId": "UA0001",
+          "level": "note",
+          "message": {
+            "text": "Namespace 'System.Web' should not be referenced in ASP.NET Core projects"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.Core/Extensions/ObjectExtension.cs"
+                },
+                "region": {
+                  "startLine": 12
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA0001",
+          "level": "note",
+          "message": {
+            "text": "Namespace 'System.Web' should not be referenced in ASP.NET Core projects"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/wwwdev/VOL%20%E6%A1%86%E6%9E%B6_windoes%E7%99%BB%E5%BD%95%E7%89%88/Vue.Net/VOL.Core/Services/Logger.cs"
+                },
+                "region": {
+                  "startLine": 11
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "columnKind": "utf16CodeUnits"
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "Component Analysis",
+          "semanticVersion": "0.4.410601",
+          "informationUri": "https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-overview"
+        }
+      },
+      "results": [],
+      "columnKind": "utf16CodeUnits"
+    }
+  ]
+}
